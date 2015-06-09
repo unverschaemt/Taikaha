@@ -1,0 +1,23 @@
+{
+  "name": "taikaha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unverschaemt/taikaha.git"
+  },
+  "author": "Dustin Hoffner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unverschaemt/taikaha/issues"
+  },
+  "homepage": "https://github.com/unverschaemt/taikaha",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5"
+  }
+}
